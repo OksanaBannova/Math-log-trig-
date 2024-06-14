@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6g150jxp0ckn3k5r?svg=true)](https://ci.appveyor.com/project/OksanaBannova/math-log-trig)
+
 ## `Math (log/trig)`
 
 ### Легенда
